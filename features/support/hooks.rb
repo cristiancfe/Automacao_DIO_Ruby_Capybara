@@ -1,0 +1,1 @@
+escrever no hooks o after( oque vem depois) e o before ( oque vem antes ) 
